@@ -1,10 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Homepage from './Homepage'
 
 function App() {
     return (
         <div>
-            <p>Hello World!!!</p>
+            <Homepage />
         </div>
     )
 }
